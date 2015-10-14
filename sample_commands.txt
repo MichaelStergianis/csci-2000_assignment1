@@ -1,0 +1,15 @@
+(a) echo hello world: outputs "hello world" to the terminal (stdout)
+
+(b) echo {con,pre}{sent,fer}{s,ed}: iterates through doing the string equivalent of distributivity, covering every possible combination of all 3 of the parantheses using only one string from each set.
+
+(c) date: prints the current date and time
+
+(d) whoami: prints your user name
+
+(e) cal 2000: prints the gregorian calendar for the year 2000
+
+(f) cal 9 1752: prints the calendar for september 1752, it is strange because of the change from julian to gregorian calendars.
+
+(g) bc -l: prints output associated with the free software foundation, terminal holds and is waiting for user input. bc -l puts the terminal into interactive mode
+
+(h) echo 5+4 | bc -l: sends the output of 5+4 to the stdin of bc -l
